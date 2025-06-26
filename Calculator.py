@@ -51,5 +51,3 @@ while True:
         print("Please enter valid numbers.\n")
     except ZeroDivisionError:
         print("Oops! Cannot divide by zero.\n")
-    finally:
-     pass
